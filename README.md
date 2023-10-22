@@ -1,4 +1,4 @@
-<h1 align="center">Hey, there! I'm Max, I write code</h1>
+<h2 align="center">Hey, there! I'm Max, I write code</h2>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/max-rubinstein-188935294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="max-rubinstein-188935294" height="30" width="40" /></a>
